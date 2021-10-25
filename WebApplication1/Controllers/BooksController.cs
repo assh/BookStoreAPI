@@ -4,9 +4,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication1.Models;
+//using BookstoreAPI.Models;
+using BookStore.data.Models;
 
-namespace WebApplication1.Controllers
+namespace BookstoreAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -12,4 +12,8 @@
     <Folder Include="Models\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BookStore.data\BookStore.data.csproj" />
+  </ItemGroup>
+
 </Project>
